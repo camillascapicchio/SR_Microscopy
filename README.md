@@ -16,6 +16,9 @@ e il file con i pesi del modello allenato
 
 `basicsr\` oltre al codice di test contiene moduli e funzioni utili
 
+Il codice produce come output una cartella "results" in cui vengono salvati sia il log che le immagini di output.
+
+
 
 
 
