@@ -1,6 +1,6 @@
 # SR_Microscopy
 
-pretrain_network_g/net_g_latest.pth --> sono i pesi del modello
+'pretrain_network_g/net_g_latest.pth' --> sono i pesi del modello
 
 options/test_ESRGAN_x1gpu.yml --> file di configurazione
 
