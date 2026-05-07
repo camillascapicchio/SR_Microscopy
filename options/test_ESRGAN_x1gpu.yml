@@ -7,7 +7,7 @@ datasets:
   test_1:
     name: tubulin_test_set
     type: PairedImageDataset
-    dataroot_gt: ./datasets/GT/test_set
+    dataroot_gt: ./datasets/WF/test_set
     dataroot_lq: ./datasets/WF/test_set
     io_backend:
       type: disk
