@@ -1,6 +1,6 @@
 # SR_Microscopy
 
-net_g_latest.pth --> sono i pesi del modello
+pretrain_network_g/net_g_latest.pth --> sono i pesi del modello
 
 basicsr/test.py --> script da eseguire per l'inferenza mediante:  
 PYTHONPATH="./:${PYTHONPATH}" \  
