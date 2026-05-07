@@ -16,6 +16,8 @@ e il file con i pesi del modello allenato
 
 `basicsr\` oltre al codice di test contiene moduli e funzioni utili
 
+`datasets/WF/test_set` contiene delle immagini di input di esempio per provare a eseguire il codice.
+
 Il codice produce come output una cartella "results" in cui vengono salvati sia il log che le immagini di output.
 
 
