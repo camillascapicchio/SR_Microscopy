@@ -1,7 +1,7 @@
 name: test_esrgan
 model_type: ESRGANModel
 scale: 4
-num_gpu: 1  # set to 0 for CPU mode, or >0 for GPU
+num_gpu: 0  # set to 0 for CPU mode, or >0 for GPU
 
 datasets:
   test_1:
