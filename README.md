@@ -1,5 +1,7 @@
 # SR_Microscopy
 
+Codici necessari per eseguire l'inferenza di un modello ESRGAN per la generazione di immagini di microscopia a super-risoluzione a partire da immagini a bassa risoluzione.
+
 Lo script da eseguire per l'inferenza è `basicsr/test.py` 
 da eseguire con il seguente comando
 ```bash
