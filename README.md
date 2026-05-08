@@ -20,7 +20,7 @@ e il file con i pesi del modello allenato
 
 Il codice produce come output una cartella "results" in cui vengono salvati sia il log che le immagini di output.
 
-
+In `DOCKER_SRMicroscopy` c'è l'immagine Docker con tutto ciò che serve per eseguire l'inferenza tramite Docker container.
 
 
 
