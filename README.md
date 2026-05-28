@@ -24,10 +24,10 @@ Per eseguire l'inferenza tramite Docker container, utilizzare solo l'immagine do
 Eseguendo il comando:
 ```bash
 docker run --rm \
-  -v "$(pwd)/datasets/WF/test_set/01.png:/input.png" \
+  -v "$(pwd)/datasets/WF/test_set:/input" \
   -v "$(pwd)/output:/output" \
-  esrgan-xnat \
-  /input.png /output
+  *image_name* \
+  /input /output
 ```
 
 
