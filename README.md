@@ -20,15 +20,7 @@ e il file con i pesi del modello allenato
 
 Il codice produce come output una cartella "results" in cui vengono salvati sia il log che le immagini di output.
 
-Per eseguire l'inferenza tramite Docker container, utilizzare solo l'immagine docker, ovvero la cartella **`DOCKER_SRMicroscopy`**.
-Eseguendo il comando:
-```bash
-docker run --rm \
-  -v "$(pwd)/datasets/WF/test_set:/input" \
-  -v "$(pwd)/output:/output" \
-  image_name \       #utilizzare il nome dato all'immagine con docker build
-  /input /output
-```
+
 
 
 
