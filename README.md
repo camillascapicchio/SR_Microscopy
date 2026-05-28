@@ -20,7 +20,9 @@ e il file con i pesi del modello allenato
 
 Il codice produce come output una cartella "results" in cui vengono salvati sia il log che le immagini di output.
 
+### Other info at: https://github.com/SimLoss/-Single-image-super-resolution-microscopy-
 
+## Citation
 
 If you find this code or the trained models useful for your research, please cite our paper:
 
