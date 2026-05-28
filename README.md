@@ -26,7 +26,7 @@ Eseguendo il comando:
 docker run --rm \
   -v "$(pwd)/datasets/WF/test_set:/input" \
   -v "$(pwd)/output:/output" \
-  *image_name* \
+  <i>image_name<i> \
   /input /output
 ```
 
